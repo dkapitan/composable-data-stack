@@ -1,4 +1,4 @@
-> [!Quote] the why
+> [!quote] the why
 *The Composable Data Management Manifesto calls for decomposition and standardisation of data management systems.*
 
 The requirement for specialisation in data management systems has evolved faster than our software development practices. After decades of organic growth, this situation has created a siloed landscape composed of hundreds of products developed and maintained as monoliths, with limited reuse between systems.
